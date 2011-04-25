@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-26 08:02+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fumito Mizuno <mizuno@ounziw.com>\n"
+"Language-Team:  <mizuno@ounziw.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+
+#: class.php:24
+msgid "CSS can be used for editing select-category-to-post dashborad style."
+msgstr "CSS を使用して select-category-to-post ダッシュボードのスタイルを設定できます。"
+
+#: class.php:27
+msgid "Widget id = \"select_category_post\""
+msgstr "Widget id = \"select_category_post\""
+
+#: class.php:30
+msgid "ul class= \"selectcategory\" or \"selectcategory-cloud\""
+msgstr "ul class= \"selectcategory\" or \"selectcategory-cloud\""
+
+#: class.php:33
+msgid "a href id= \"category[num]\" where [num] is a category ID"
+msgstr "a href id= \"category[num]\" where [num] is a category ID"
+
+#: class.php:36
+msgid "a href class= (cloud only) \"size[num]\" where [num] is a size"
+msgstr "a href class= (cloud only) \"size[num]\" where [num] is a size"
+
+#: class.php:39
+msgid "This plugin does not check the validity of CSS you have entered."
+msgstr "本プラグインは、入力した CSS の妥当性をチェックしません。"
+
+#: class.php:54
+#: class.php:101
+msgid "Select Category to Post"
+msgstr "カテゴリを選択して投稿する"
+
+#: class.php:60
+msgid "Options"
+msgstr "オプション"
+
+#: class.php:67
+msgid "Number of Categories"
+msgstr "カテゴリー数"
+
+#: class.php:71
+msgid "Order of Categories"
+msgstr "カテゴリー順序"
+
+#: class.php:73
+msgid "Name"
+msgstr "名前"
+
+#: class.php:74
+msgid "Count"
+msgstr "数"
+
+#: class.php:75
+msgid "term_id"
+msgstr "term_id"
+
+#: class.php:76
+msgid "cloud"
+msgstr "クラウド"
+
+#: class.php:80
+msgid "Size of Clouds (if you choose cloud)"
+msgstr "クラウドの大きさ(クラウドを選択した場合のみ)"
+
+#: class.php:84
+msgid "CSS"
+msgstr "CSS"
+
+#: class.php:93
+msgid "Save Changes"
+msgstr "変更を保存する"
+
+#: class.php:249
+msgid "Test for Select Category to Post JavaScript"
+msgstr "Select Category to Post JavaScript のテスト"
+
+#: class.php:267
+msgid "Test needs lime.php."
+msgstr "テストには lime.php が必要です。"
+
+#: class.php:268
+msgid "Please put lime.php in the plugin folder."
+msgstr "プラグインフォルダに lime.php を置いてください。"
+

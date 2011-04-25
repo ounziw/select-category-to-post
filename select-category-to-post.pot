@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-26 08:02+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: class.php:24
+msgid "CSS can be used for editing select-category-to-post dashborad style."
+msgstr ""
+
+#: class.php:27
+msgid "Widget id = \"select_category_post\""
+msgstr ""
+
+#: class.php:30
+msgid "ul class= \"selectcategory\" or \"selectcategory-cloud\""
+msgstr ""
+
+#: class.php:33
+msgid "a href id= \"category[num]\" where [num] is a category ID"
+msgstr ""
+
+#: class.php:36
+msgid "a href class= (cloud only) \"size[num]\" where [num] is a size"
+msgstr ""
+
+#: class.php:39
+msgid "This plugin does not check the validity of CSS you have entered."
+msgstr ""
+
+#: class.php:54 class.php:101
+msgid "Select Category to Post"
+msgstr ""
+
+#: class.php:60
+msgid "Options"
+msgstr ""
+
+#: class.php:67
+msgid "Number of Categories"
+msgstr ""
+
+#: class.php:71
+msgid "Order of Categories"
+msgstr ""
+
+#: class.php:73
+msgid "Name"
+msgstr ""
+
+#: class.php:74
+msgid "Count"
+msgstr ""
+
+#: class.php:75
+msgid "term_id"
+msgstr ""
+
+#: class.php:76
+msgid "cloud"
+msgstr ""
+
+#: class.php:80
+msgid "Size of Clouds (if you choose cloud)"
+msgstr ""
+
+#: class.php:84
+msgid "CSS"
+msgstr ""
+
+#: class.php:93
+msgid "Save Changes"
+msgstr ""
+
+#: class.php:249
+msgid "Test for Select Category to Post JavaScript"
+msgstr ""
+
+#: class.php:267
+msgid "Test needs lime.php."
+msgstr ""
+
+#: class.php:268
+msgid "Please put lime.php in the plugin folder."
+msgstr ""
