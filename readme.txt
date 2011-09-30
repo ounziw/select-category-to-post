@@ -3,7 +3,7 @@ Contributors: ounziw
 Donate link: http://pledgie.com/campaigns/8706
 Tags: category, admin, dashboard
 Requires at least: 3.0
-Tested up to: 3.1.1
+Tested up to: 3.2.1
 Stable tag: trunk
 
 Category names are shown on your dashboard with a hyperlink, and when you click one, you will go to post-new.php, with the category already selected.
